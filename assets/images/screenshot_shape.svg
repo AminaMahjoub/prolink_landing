@@ -1,9 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="916.743" height="819.603" viewBox="0 0 916.743 819.603">
-  <defs>
-    <linearGradient id="linear-gradient" x1="0.241" y1="-0.045" x2="0.939" y2="1.248" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#291584"/>
-      <stop offset="1" stop-color="#9133e2"/>
-    </linearGradient>
-  </defs>
-  <path id="Path_11" data-name="Path 11" d="M2350.98,4198.339s-785.72,581.775-876.428,659.85,0,159.753,0,159.753H2350.98Z" transform="translate(-1434.237 -4198.339)" fill="url(#linear-gradient)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.7 819.6" style="enable-background:new 0 0 916.7 819.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Path_11_00000174595216281876732920000010293511178122383027_);}
+</style>
+<linearGradient id="Path_11_00000139270975612680668460000016390234490676618686_" gradientUnits="userSpaceOnUse" x1="-161.595" y1="0.2768" x2="-160.897" y2="1.5696" gradientTransform="matrix(916.7427 0 0 819.603 148350.3125 -257.979)">
+	<stop  offset="0" style="stop-color:#004B87"/>
+	<stop  offset="1" style="stop-color:#002E68"/>
+</linearGradient>
+<path id="Path_11" style="fill:url(#Path_11_00000139270975612680668460000016390234490676618686_);" d="M916.7,0
+	c0,0-785.7,581.8-876.4,659.9s0,159.8,0,159.8h876.4V0z"/>
 </svg>

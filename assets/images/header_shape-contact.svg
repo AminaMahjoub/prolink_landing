@@ -3,12 +3,11 @@
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1921.8 1205.6" style="enable-background:new 0 0 1921.8 1205.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#Path_7_00000176028608256492378270000013129651857846944670_);}
+	.st0{fill:url(#SVGID_1_);}
 </style>
-<linearGradient id="Path_7_00000106120552509840358610000015761384004793580166_" gradientUnits="userSpaceOnUse" x1="841.6685" y1="-0.4035" x2="842.4595" y2="1.0515" gradientTransform="matrix(1921.757 0 0 1205.64 -1617277.375 125.9633)">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-63.8492" y1="1784.6077" x2="2381.2358" y2="-1036.9875" gradientTransform="matrix(1 0 0 -1 0 1206)">
 	<stop  offset="0" style="stop-color:#004B87"/>
 	<stop  offset="1" style="stop-color:#002E68"/>
 </linearGradient>
-<path id="Path_7" style="fill:url(#Path_7_00000106120552509840358610000015761384004793580166_);" d="M0.9,937.1
-	c0,0,60.7,430.6,510.1,201.3s1410.8-772.3,1410.8-772.3L1921.2,0L0,0.6L0.9,937.1z"/>
+<rect x="-0.3" y="-0.8" class="st0" width="1920.4" height="1207.1"/>
 </svg>
